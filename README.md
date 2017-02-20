@@ -17,6 +17,7 @@ Paragraph about deployment
 ## How To Contribute
 
 Paragraph about contribution
+Please fork repository
 
 ## Copyright
 
