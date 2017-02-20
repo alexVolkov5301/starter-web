@@ -17,3 +17,7 @@ Paragraph about deployment
 ## How To Contribute
 
 Paragraph about contribution
+
+## Copyright
+
+Copyright notice
